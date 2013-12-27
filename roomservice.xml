@@ -1,2 +1,2 @@
-<project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" revision="cm-11.0"/>
-<project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-11.0"/>
+<project name="CyanogenMod/android_device_asus_grouper" path="device/asus/grouper" remote="github" revision="cm-10.1"/>
+<project name="CyanogenMod/android_kernel_asus_grouper" path="kernel/asus/grouper" remote="github" revision="cm-10.1"/>
